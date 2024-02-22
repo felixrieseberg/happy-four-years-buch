@@ -102,6 +102,10 @@ const Data: Array<Message> = [
     body: "Buch, can’t believe it has been 4 years! I always had a lot of fun working with you, and have been learning a lot from your humbleness and thoroughness. I’m sure there’s a ton of things we could do, in the desktop area, and everywhere else, so let’s make it another 4! 😉",
     author: "Zeno Wu",
   },
+  {
+    body: "Buch - Thank you for being such a kind and welcoming presence on the Web Infrastructure team! It's been awesome getting to know you. I always appreciate your thoughtful explanations and how you acknowledge every question, no matter how simple, with gentle curiosity. Congratulations on 4 years!",
+    author: "Maja Wichrowska"
+  }
 ];
 
 export function Dropbox() {
