@@ -105,6 +105,14 @@ const Data: Array<Message> = [
   {
     body: "Buch - Thank you for being such a kind and welcoming presence on the Web Infrastructure team! It's been awesome getting to know you. I always appreciate your thoughtful explanations and how you acknowledge every question, no matter how simple, with gentle curiosity. Congratulations on 4 years!",
     author: "Maja Wichrowska"
+  },
+  {
+    body: "Congrats on 4 years Buch!! Having you as a coworker is great - I appreciate your help at work and love chatting with you about the best places to eat, shop, and concerts to see 😄",
+    author: "Kiran Pandit"
+  },
+  {
+    body: "Congratulations on 4 years! It feels like it's just been yesterday that we've been trying to deprecate react native 😅 It was fun to see you help us evolve different platforms and run towards challenges! Notion wouldn't be the same without you (and we would have Tabs on desktop too 😎)",
+    author: "Arty Vohmincevs"
   }
 ];
 
